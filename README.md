@@ -32,7 +32,7 @@ Linhas de Comando:
 $ git clone https://github.com/NunesTom/gostack-desafio-conceitos-react-native.git
 
 # Go into the repository
-$ cd gostack-desafio-conceitos-reactjs
+$ cd gostack-desafio-conceitos-react-native
 
 # Install dependencies
 $ yarn
